@@ -1,10 +1,11 @@
-# * Movies - ETL
+# ** Movies - ETL 
 
-Overview
+## ** Overview
 
-Th purpose of this analysis is to pull data from multiple sources, remove unnecessary data and store the data into a database. 
+The purpose of this analysis is to pull data from multiple sources, remove unnecessary data and store the data into a database. 
 
-Results:
+## ** Results
+
 Step 1: Extract the Data
 
 The first step in the process is to read and gather the data from the two sources, (movies_metadata.csv and wikipedia-movies.json) using Python.
